@@ -36,6 +36,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         bt.setOnClickListener(this);
         voice.setOnClickListener(this);
         sys.setOnClickListener(this);
+        System.out.println("hahahah");
 
 
     }
